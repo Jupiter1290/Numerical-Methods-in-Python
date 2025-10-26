@@ -12,8 +12,8 @@ Each folder corresponds to a separate engineering problem, focusing on the use o
 | `Curve_Fitting` | Fits temperature–specific heat data using linear, cubic, and biquadratic models; compares model accuracy via residuals. |
 | `Data_Analysis` | Processes experimental engine data to estimate power output and specific fuel consumption using the trapezoidal rule. |
 | `Drag_Force_Over_a_Cyclist` | Computes and visualizes aerodynamic drag variation with velocity and drag coefficient. |
-| `Modelling_a_Damped_Pendulumn` | Simulates damped pendulum motion by numerically solving nonlinear ODEs. |
 | `Modelling_Otto_Cycle` | Models the ideal Otto cycle and generates the P–V diagram with calculated thermal efficiency. |
+| `Modelling_a_Damped_Pendulumn` | Simulates damped pendulum motion by numerically solving nonlinear ODEs. |
 | `NewtonRaphson_PressureInIceField` | Uses the Newton–Raphson method to find minimum cushion pressure in an ice field, analyzing relaxation factor effects. |
 
 ---
